@@ -2,6 +2,8 @@
 
 A production-ready template for building offline-first desktop business applications with Electron, React, and SQLite.
 
+![Dashboard](screenshots/dashboard.png)
+
 ## Features
 
 - **Local SQLite Database** - All data stored locally with automatic backups
@@ -165,6 +167,14 @@ npm run make        # Creates platform-specific packages
 - **shadcn/ui** - UI components
 - **Lucide React** - Icons
 - **bcryptjs** - Password hashing
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/signin.png)
+
+### Settings & Backup
+![Settings](screenshots/settings.png)
 
 ## Data Storage
 
